@@ -1,0 +1,32 @@
+Basic git commands
+git
+git init
+git clone
+cd
+
+
+check pull
+git pull
+
+git status
+untrack-u
+add-A
+git add test2.txt-add file in working area
+there are 2 areas in local machine.
+1-git folder
+2.working area
+once we created a repo that will save in working area which mention by U in the git status command on terminal.
+git add-use to move file in the staging area in local machine
+git commit -m "test2.txt file added"- this use to add/commit file in the local git folder
+git push origin main -it use to update the repo to remote github
+
+
+
+//for modify the file
+
+//first create the file
+
+//this is text file
+//i have added new things here
+//
+this is Commands3.txt file
